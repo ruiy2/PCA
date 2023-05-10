@@ -7,3 +7,5 @@ We anticipated that the crypto market performs differently during the bull run (
 
 To choose an appropriate number of factors to use, we created scree plots for both time periods. Then, we chose the elbow accordingly and used 2 factors for our PCA. 
 
+Factor 1: We can see that factor 1 is positively correlated with all cryptos and the magnitude of correlation does not vary greatly between crypto winter and bull run. Therefore it is a long-run factor that does not change greatly with short-run fluactuations. 
+Factor 2: Given the large positive correlation between USD price and factor 2 as well as the large negative correlation between gold price and factor 2, we think factor 2 is related to USD strength. 
